@@ -1,0 +1,13 @@
+{
+    "firstName": "Carlos",
+    "lastName": "da Costa",
+    "cpf": "123.4567.89-01",
+    "address": "Avenida Brasil",
+    "city": "Florianópolis",
+    "state": "Santa Catarina",
+    "phone": "",
+    "email": "carlosdacosta@gmail.com",
+    "hospital": "hospital baia sul",
+    "cardNo": "12354512333332",
+    "appointmentDate": "2025-06-02"
+}
